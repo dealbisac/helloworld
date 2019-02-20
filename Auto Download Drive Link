@@ -1,0 +1,16 @@
+This shows how you can make directly download from Google Drive.
+
+###Step 1:
+
+Copy the shared link from your Google Drive.
+Eg.https://drive.google.com/open?id=1bIONsTideFpiTZxcrVuKppZ1SurwH0Dm
+
+Here your file has id and browser is setting it to open.
+It must be changed as
+
+###Step 2:
+Remove open and add uc?export=download&
+
+https://drive.google.com/uc?export=download&id=1bIONsTideFpiTZxcrVuKppZ1SurwH0Dm
+
+It will be downloadble now.
